@@ -37,7 +37,7 @@ latch pin was used to disable the display when transmitting data.
 
 ## Sketches and Photos
 
-<center><img src="./images/dot-array.JPG" width="100%" /></center>
+<center><img src="./Images/dot-array.JPG" width="100%" /></center>
 <center> Dot Array Implementation</center>
 
 
@@ -46,10 +46,9 @@ latch pin was used to disable the display when transmitting data.
 
 
 ## Supporting Artifacts
+- [Video Demo](https://drive.google.com/file/d/1UEPXWIlZeXka2LNjEf9gJsUMIartxoMj/view?usp=sharing)
+- [Github repo for our solution](https://github.com/BU-EC444/Lam-Emily/tree/master/quests/99)
 
-- [Github repo for our
-  solution](https://github.com/BU-EC444/model-student/tree/master/skills/2-1-dot-array)
-- [Youtube video demo[()
 
 
 -----
