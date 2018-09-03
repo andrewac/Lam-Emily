@@ -12,7 +12,7 @@ functionality. The lines count upward in binary.
 
 ## Sketches and Photos
 
-<center><img src="./Images/dot-array.jpg" width="50%" /></center>
+<center><img src="./Images/dot-array.JPG" width="50%" /></center>
 <center> Dot Array Implementation</center>
 
 
