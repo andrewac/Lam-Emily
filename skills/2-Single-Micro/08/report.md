@@ -23,7 +23,7 @@ functionality. The lines count upward in binary.
 ## Supporting Artifacts
 - [Video Demo](https://drive.google.com/file/d/1UEPXWIlZeXka2LNjEf9gJsUMIartxoMj/view?usp=sharing)
 - [Github repo for my
-  solution](https://github.com/BU-EC444/Lam-Emily/skills/2-Single-Micro/08)
+  solution](https://github.com/BU-EC444/Lam-Emily/tree/master/skills/2-Single-Micro/08)
 
 -----
 
