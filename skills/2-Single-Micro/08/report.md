@@ -17,7 +17,7 @@ functionality. The lines count upward in binary.
 
 
 ## Modules, Tools, Source Used in Solution
-- [Artuino Serial to Parallel with Shift Register](https://www.arduino.cc/en/Tutorial/ShiftOut)
+- [Arduino Serial to Parallel with Shift Register](https://www.arduino.cc/en/Tutorial/ShiftOut)
 
 
 ## Supporting Artifacts
