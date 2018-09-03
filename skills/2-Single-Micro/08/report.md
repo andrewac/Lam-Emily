@@ -1,4 +1,4 @@
-#  Skill Reporting Example: 8x8 Dot-Array
+# 8x8 Dot-Array
 
 Author: Emily Lam, 2018-09-01
 
